@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/repair_gn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/sdsl-lite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/sdsl-lite/external/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/sdsl-lite/external/libdivsufsort" vcs="Git" />
+  </component>
+</project>

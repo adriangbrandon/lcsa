@@ -1,0 +1,1890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="LCSA" targetName="rank-support-test" />
+      <config projectName="LCSA" targetName="sd_vector_test" />
+      <config projectName="LCSA" targetName="search-bidirectional-test_100a.txt" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.0.1.0" />
+      <config projectName="LCSA" targetName="select-support-test_bit-vec.CRAFTED-MAT-SELECT" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.0.1.0" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.1000000.1.r.815" />
+      <config projectName="LCSA" targetName="rank_support_test" />
+      <config projectName="LCSA" targetName="csa-byte-test_faust.txt" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.11.1.1" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.2048.1.r.5432" />
+      <config projectName="LCSA" targetName="lcsa" />
+      <config projectName="LCSA" targetName="coder_test" />
+      <config projectName="LCSA" targetName="k2-10000.16.r.4210000.16.r.2310000.8.r.81" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.7.1.1" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.1000000.1.1" />
+      <config projectName="LCSA" targetName="gtest" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.1000000.1.0" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.1024.1.r.898" />
+      <config projectName="LCSA" targetName="dac_vector_test" />
+      <config projectName="LCSA" targetName="search_bidirectional_test" />
+      <config projectName="LCSA" targetName="faust.txt" />
+      <config projectName="LCSA" targetName="cst_int_test" />
+      <config projectName="LCSA" targetName="csa-int-test_100a.txt_1" />
+      <config projectName="LCSA" targetName="dac-vector-test" />
+      <config projectName="LCSA" targetName="k2-100000.39.r.42100000.47.r.23100000.35.r.81" />
+      <config projectName="LCSA" targetName="sorted-int-stack-test" />
+      <config projectName="LCSA" targetName="wt-int-test_int-vec.1023.1.0" />
+      <config projectName="LCSA" targetName="nn_dict_dynamic_test" />
+      <config projectName="LCSA" targetName="test-sdsl" />
+      <config projectName="LCSA" targetName="csa_byte_test" />
+      <config projectName="LCSA" targetName="lcp-construct-test_zarathustra.txt" />
+      <config projectName="LCSA" targetName="wt-byte-test_empty.txt" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.32.1.r.111" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.0.1.0" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.1000000.1.r.815" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.8.1.0" />
+      <config projectName="LCSA" targetName="wt-int-test_int-vec.100000.18.r" />
+      <config projectName="LCSA" targetName="csa-byte-test_empty.txt" />
+      <config projectName="LCSA" targetName="cst-int-test_moby.int_8" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.13.1.1" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.128.1.r.73" />
+      <config projectName="LCSA" targetName="moby.int" />
+      <config projectName="LCSA" targetName="wt-int-test_int-vec.64.2.0" />
+      <config projectName="LCSA" targetName="wt_int_test" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.7.1.1" />
+      <config projectName="LCSA" targetName="inv_perm_support_test" />
+      <config projectName="LCSA" targetName="csa-int-test_empty.txt_1" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.4096.1.r.793" />
+      <config projectName="LCSA" targetName="k2-treap-test" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.12.1.0" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.14.1.0" />
+      <config projectName="LCSA" targetName="cst-int-test_example01.txt_1" />
+      <config projectName="LCSA" targetName="uninstall" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.2048.1.r.5432" />
+      <config projectName="LCSA" targetName="k2-treap-test_k2-0.1.0.00.1.0.00.1.0.0" />
+      <config projectName="LCSA" targetName="select_support_test" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.8192.1.r.1043" />
+      <config projectName="LCSA" targetName="bits-test" />
+      <config projectName="LCSA" targetName="wt-byte-test" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.8192.1.r.1043" />
+      <config projectName="LCSA" targetName="search-bidirectional-test_example01.txt" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.1.1.0" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.11.1.1" />
+      <config projectName="LCSA" targetName="uninstall-sdsl" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.12.1.0" />
+      <config projectName="LCSA" targetName="k2-tree-test" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.8.1.r.17" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.512.1.r.432" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.8.1.0" />
+      <config projectName="LCSA" targetName="sa-construct-test" />
+      <config projectName="LCSA" targetName="sa_construct_test" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.128.1.r.73" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.32.1.r.111" />
+      <config projectName="LCSA" targetName="int-vector-test" />
+      <config projectName="LCSA" targetName="cst-byte-test_faust.txt" />
+      <config projectName="LCSA" targetName="rank-support-test_bit-vec.CRAFTED-32" />
+      <config projectName="LCSA" targetName="sorted_stack_support_test" />
+      <config projectName="LCSA" targetName="lcp-construct-test_empty.txt" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.4096.1.r.793" />
+      <config projectName="LCSA" targetName="select-support-test_bit-vec.CRAFTED-SPARSE-0" />
+      <config projectName="LCSA" targetName="select-support-test_bit-vec.CRAFTED-SPARSE-1" />
+      <config projectName="LCSA" targetName="nn-dict-dynamic-test" />
+      <config projectName="LCSA" targetName="csa-int-test_zarathustra.txt_1" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.15.1.1" />
+      <config projectName="LCSA" targetName="sorted-stack-support-test" />
+      <config projectName="LCSA" targetName="cst-byte-test_example01.txt" />
+      <config projectName="LCSA" targetName="wt-byte-test_all_symbols.txt" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.256.1.r.4887" />
+      <config projectName="LCSA" targetName="k2-100.16.r.42100.16.r.23100.8.r.81" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.256.1.r.4887" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.256.1.r.4887" />
+      <config projectName="LCSA" targetName="rmq_test" />
+      <config projectName="LCSA" targetName="gtest_main" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.8.1.0" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.13.1.1" />
+      <config projectName="LCSA" targetName="rmq-test_int-vec.1000000.64.i.17" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.1000000.1.r.815" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.512.1.r.432" />
+      <config projectName="LCSA" targetName="sa-construct-test_empty.txt" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.12.1.0" />
+      <config projectName="LCSA" targetName="lcp-construct-test_100a.txt" />
+      <config projectName="LCSA" targetName="wt-int-test_int-vec.100023.1.0" />
+      <config projectName="LCSA" targetName="sa-construct-test_100a.txt" />
+      <config projectName="LCSA" targetName="int_vector_generator" />
+      <config projectName="LCSA" targetName="k2-treap-test_k2-10000.16.r.4210000.16.r.2310000.8.r.81" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.128.1.r.73" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.32.1.r.111" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.11.1.1" />
+      <config projectName="LCSA" targetName="divsufsort64" />
+      <config projectName="LCSA" targetName="lcp-construct-test_faust.txt" />
+      <config projectName="LCSA" targetName="cst-byte-test" />
+      <config projectName="LCSA" targetName="cst-int-test" />
+      <config projectName="LCSA" targetName="sa-construct-test_example01.txt" />
+      <config projectName="LCSA" targetName="sorted_int_stack_test" />
+      <config projectName="LCSA" targetName="divsufsort" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.64.1.r.222" />
+      <config projectName="LCSA" targetName="wt-byte-test_example01.txt" />
+      <config projectName="LCSA" targetName="bit_vector_generator" />
+      <config projectName="LCSA" targetName="bit-vector-test_bit-vec.CRAFTED-32" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.9.1.1" />
+      <config projectName="LCSA" targetName="bits_test" />
+      <config projectName="LCSA" targetName="rmq-test" />
+      <config projectName="LCSA" targetName="bit-vector-test_bit-vec.CRAFTED-BLOCK-0" />
+      <config projectName="LCSA" targetName="compile_test" />
+      <config projectName="LCSA" targetName="bit-vector-test_bit-vec.CRAFTED-BLOCK-1" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.10.1.0" />
+      <config projectName="LCSA" targetName="csa-int-test" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.9.1.1" />
+      <config projectName="LCSA" targetName="bit-vector-test_bit-vec.CRAFTED-MAT-SELECT" />
+      <config projectName="LCSA" targetName="rank-support-test_bit-vec.CRAFTED-MAT-SELECT" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.2048.1.r.5432" />
+      <config projectName="LCSA" targetName="zarathustra.txt" />
+      <config projectName="LCSA" targetName="k2-0.1.0.00.1.0.00.1.0.0" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.16.1.r.42" />
+      <config projectName="LCSA" targetName="rmq-test_int-vec.1.64.42" />
+      <config projectName="LCSA" targetName="search-bidirectional-test_zarathustra.txt" />
+      <config projectName="LCSA" targetName="sa-construct-test_one_byte.txt" />
+      <config projectName="LCSA" targetName="search-bidirectional-test_empty.txt" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.15.1.1" />
+      <config projectName="LCSA" targetName="bit_vector_test" />
+      <config projectName="LCSA" targetName="clean-test" />
+      <config projectName="LCSA" targetName="lcp-construct-test" />
+      <config projectName="LCSA" targetName="lcp_construct_test" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.512.1.r.432" />
+      <config projectName="LCSA" targetName="wt-byte-test_faust.txt" />
+      <config projectName="LCSA" targetName="csa-byte-test_example01.txt" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.1024.1.r.898" />
+      <config projectName="LCSA" targetName="csa-byte-test_zarathustra.txt" />
+      <config projectName="LCSA" targetName="search-bidirectional-test_faust.txt" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.9.1.1" />
+      <config projectName="LCSA" targetName="csa-byte-test_100a.txt" />
+      <config projectName="LCSA" targetName="wt-int-test_int-vec.0.1.0" />
+      <config projectName="LCSA" targetName="csa-int-test_keeper.int_8" />
+      <config projectName="LCSA" targetName="wt-byte-test_100a.txt" />
+      <config projectName="LCSA" targetName="cst-byte-test_empty.txt" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.14.1.0" />
+      <config projectName="LCSA" targetName="cst-byte-test_100a.txt" />
+      <config projectName="LCSA" targetName="k2-treap-test_k2-100.16.r.42100.16.r.23100.8.r.81" />
+      <config projectName="LCSA" targetName="select-support-test_bit-vec.CRAFTED-BLOCK-1" />
+      <config projectName="LCSA" targetName="csa-int-test_moby.int_8" />
+      <config projectName="LCSA" targetName="select-support-test_bit-vec.CRAFTED-BLOCK-0" />
+      <config projectName="LCSA" targetName="compile-test" />
+      <config projectName="LCSA" targetName="search-bidirectional-test" />
+      <config projectName="LCSA" targetName="rank-support-test_bit-vec.CRAFTED-BLOCK-0" />
+      <config projectName="LCSA" targetName="rank-support-test_bit-vec.CRAFTED-BLOCK-1" />
+      <config projectName="LCSA" targetName="rmq-test_int-vec.1000000.64.i" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.4096.1.r.793" />
+      <config projectName="LCSA" targetName="k2_tree_test" />
+      <config projectName="LCSA" targetName="bit-vector-test" />
+      <config projectName="LCSA" targetName="select-support-test_bit-vec.CRAFTED-32" />
+      <config projectName="LCSA" targetName="sdsl" />
+      <config projectName="LCSA" targetName="csa-int-test_example01.txt_1" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.10.1.0" />
+      <config projectName="LCSA" targetName="int-vector-buffer-test" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.16.1.r.42" />
+      <config projectName="LCSA" targetName="k2-1000000.52.r.421000000.57.r.231000000.45.r.81" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.10.1.0" />
+      <config projectName="LCSA" targetName="sa-construct-test_zarathustra.txt" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.16.1.r.42" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.1.1.0" />
+      <config projectName="LCSA" targetName="replace_int_vector_value" />
+      <config projectName="LCSA" targetName="cst-int-test_100a.txt_1" />
+      <config projectName="LCSA" targetName="bit-vector-test_bit-vec.CRAFTED-SPARSE-1" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.8.1.r.17" />
+      <config projectName="LCSA" targetName="cst-int-test_keeper.int_8" />
+      <config projectName="LCSA" targetName="bit-vector-test_bit-vec.CRAFTED-SPARSE-0" />
+      <config projectName="LCSA" targetName="wt_byte_test" />
+      <config projectName="LCSA" targetName="csa-byte-test" />
+      <config projectName="LCSA" targetName="csa_int_test" />
+      <config projectName="LCSA" targetName="rank-support-test_bit-vec.CRAFTED-SPARSE-1" />
+      <config projectName="LCSA" targetName="rank-support-test_bit-vec.CRAFTED-SPARSE-0" />
+      <config projectName="LCSA" targetName="lcp-construct-test_example01.txt" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.1024.1.r.898" />
+      <config projectName="LCSA" targetName="coder-test" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.1000000.1.1" />
+      <config projectName="LCSA" targetName="inv-perm-support-test" />
+      <config projectName="LCSA" targetName="rmq-test_int-vec.1000000.32.i.42" />
+      <config projectName="LCSA" targetName="sd-vector-test" />
+      <config projectName="LCSA" targetName="select-support-test" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.1000000.1.0" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.8192.1.r.1043" />
+      <config projectName="LCSA" targetName="cst-int-test_faust.txt_1" />
+      <config projectName="LCSA" targetName="int_vector_buffer_test" />
+      <config projectName="LCSA" targetName="cst-int-test_empty.txt_1" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.15.1.1" />
+      <config projectName="LCSA" targetName="k2_treap_test" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.7.1.1" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.1.1.0" />
+      <config projectName="LCSA" targetName="int_vector_test" />
+      <config projectName="LCSA" targetName="libRepairGN" />
+      <config projectName="LCSA" targetName="int_vector_mapper_test" />
+      <config projectName="LCSA" targetName="k2-treap-test_k2-100000.39.r.42100000.47.r.23100000.35.r.81" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.14.1.0" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.64.1.r.222" />
+      <config projectName="LCSA" targetName="cst-int-test_int-vec-sa.100000.18.r_0" />
+      <config projectName="LCSA" targetName="rank-support-test_int-vec.8.1.r.17" />
+      <config projectName="LCSA" targetName="csa-int-test_faust.txt_1" />
+      <config projectName="LCSA" targetName="select-support-test_int-vec.13.1.1" />
+      <config projectName="LCSA" targetName="wt-int-test" />
+      <config projectName="LCSA" targetName="cst_byte_test" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.1000000.1.1" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.1000000.1.0" />
+      <config projectName="LCSA" targetName="bit-vector-test_int-vec.64.1.r.222" />
+      <config projectName="LCSA" targetName="k2-treap-test_k2-1000000.52.r.421000000.57.r.231000000.45.r.81" />
+      <config projectName="LCSA" targetName="int-vector-mapper-test" />
+      <config projectName="LCSA" targetName="sa-construct-test_faust.txt" />
+      <config projectName="LCSA" targetName="rmq-test_int-vec.0.1.0" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd16b6e8-df17-4284-9ceb-f4dac96e25f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/repair_gn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/sdsl-lite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/lcsa.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/repair.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1170353874">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="hpp" value="2" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="ObjectiveC" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="150" />
+          <entry key="gitignore" value="18" />
+          <entry key="hpp" value="510" />
+          <entry key="txt" value="60" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="60" />
+          <entry key="ObjectiveC" value="660" />
+          <entry key="PLAIN_TEXT" value="18" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/repair.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-712">
+              <caret line="187" selection-start-line="187" selection-end-line="187" />
+              <folding>
+                <element signature="e#1415#1433#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/lcsa.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="118" column="30" selection-start-line="118" selection-start-column="30" selection-end-line="118" selection-end-column="30" />
+              <folding>
+                <element signature="e#3471#3484#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+              <folding>
+                <element signature="e#1364#1381#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/repair.hpp" />
+        <option value="$PROJECT_DIR$/include/lcsa.hpp" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LCSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lcsa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LCSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lcsa" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LCSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lcsa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.lcsa">
+    <configuration name="bit_vector_generator" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit_vector_generator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="bit_vector_generator" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit_vector_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit_vector_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="bit_vector_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bits_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bits_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="bits_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coder_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="coder_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="coder_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compile_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="compile_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="compile_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa_byte_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa_byte_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="csa_byte_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa_int_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa_int_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="csa_int_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst_byte_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst_byte_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="cst_byte_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst_int_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst_int_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="cst_int_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dac_vector_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="dac_vector_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="dac_vector_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="int_vector_buffer_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="int_vector_buffer_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="int_vector_buffer_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="int_vector_generator" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="int_vector_generator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="int_vector_generator" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="int_vector_mapper_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="int_vector_mapper_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="int_vector_mapper_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="int_vector_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="int_vector_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="int_vector_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inv_perm_support_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="inv_perm_support_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="inv_perm_support_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2_treap_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2_treap_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="k2_treap_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2_tree_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2_tree_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="k2_tree_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcp_construct_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="lcp_construct_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="lcp_construct_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nn_dict_dynamic_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="nn_dict_dynamic_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="nn_dict_dynamic_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank_support_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank_support_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="rank_support_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="replace_int_vector_value" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="replace_int_vector_value" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="replace_int_vector_value" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rmq_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rmq_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="rmq_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sa_construct_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sa_construct_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="sa_construct_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sd_vector_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sd_vector_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="sd_vector_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search_bidirectional_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="search_bidirectional_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="search_bidirectional_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select_support_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select_support_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="select_support_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sorted_int_stack_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sorted_int_stack_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="sorted_int_stack_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sorted_stack_support_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sorted_stack_support_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="sorted_stack_support_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt_byte_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt_byte_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="wt_byte_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt_int_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt_int_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="wt_int_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_bit-vec.CRAFTED-32" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_bit-vec.CRAFTED-32" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_bit-vec.CRAFTED-BLOCK-0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_bit-vec.CRAFTED-BLOCK-0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_bit-vec.CRAFTED-BLOCK-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_bit-vec.CRAFTED-BLOCK-1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_bit-vec.CRAFTED-MAT-SELECT" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_bit-vec.CRAFTED-MAT-SELECT" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_bit-vec.CRAFTED-SPARSE-0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_bit-vec.CRAFTED-SPARSE-0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_bit-vec.CRAFTED-SPARSE-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_bit-vec.CRAFTED-SPARSE-1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.0.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.0.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.1000000.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.1000000.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.1000000.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.1000000.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.1000000.1.r.815" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.1000000.1.r.815" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.1024.1.r.898" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.1024.1.r.898" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.10.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.10.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.11.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.11.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.128.1.r.73" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.128.1.r.73" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.12.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.12.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.13.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.13.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.14.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.14.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.15.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.15.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.16.1.r.42" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.16.1.r.42" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.1.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.1.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.2048.1.r.5432" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.2048.1.r.5432" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.256.1.r.4887" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.256.1.r.4887" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.32.1.r.111" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.32.1.r.111" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.4096.1.r.793" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.4096.1.r.793" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.512.1.r.432" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.512.1.r.432" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.64.1.r.222" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.64.1.r.222" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.7.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.7.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.8192.1.r.1043" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.8192.1.r.1043" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.8.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.8.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.8.1.r.17" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.8.1.r.17" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bit-vector-test_int-vec.9.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bit-vector-test_int-vec.9.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bits-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="bits-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="clean-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coder-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="coder-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compile-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="compile-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-byte-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-byte-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-byte-test_100a.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-byte-test_100a.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-byte-test_empty.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-byte-test_empty.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-byte-test_example01.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-byte-test_example01.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-byte-test_faust.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-byte-test_faust.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-byte-test_zarathustra.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-byte-test_zarathustra.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-int-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-int-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-int-test_100a.txt_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-int-test_100a.txt_1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-int-test_empty.txt_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-int-test_empty.txt_1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-int-test_example01.txt_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-int-test_example01.txt_1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-int-test_faust.txt_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-int-test_faust.txt_1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-int-test_keeper.int_8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-int-test_keeper.int_8" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-int-test_moby.int_8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-int-test_moby.int_8" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csa-int-test_zarathustra.txt_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="csa-int-test_zarathustra.txt_1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-byte-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-byte-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-byte-test_100a.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-byte-test_100a.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-byte-test_empty.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-byte-test_empty.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-byte-test_example01.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-byte-test_example01.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-byte-test_faust.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-byte-test_faust.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-int-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-int-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-int-test_100a.txt_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-int-test_100a.txt_1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-int-test_empty.txt_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-int-test_empty.txt_1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-int-test_example01.txt_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-int-test_example01.txt_1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-int-test_faust.txt_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-int-test_faust.txt_1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-int-test_int-vec-sa.100000.18.r_0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-int-test_int-vec-sa.100000.18.r_0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-int-test_keeper.int_8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-int-test_keeper.int_8" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cst-int-test_moby.int_8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="cst-int-test_moby.int_8" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dac-vector-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="dac-vector-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="divsufsort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="divsufsort" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="divsufsort64" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="divsufsort64" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="faust.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="faust.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="int-vector-buffer-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="int-vector-buffer-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="int-vector-mapper-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="int-vector-mapper-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="int-vector-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="int-vector-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inv-perm-support-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="inv-perm-support-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2-0.1.0.00.1.0.00.1.0.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2-0.1.0.00.1.0.00.1.0.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2-1000000.52.r.421000000.57.r.231000000.45.r.81" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2-1000000.52.r.421000000.57.r.231000000.45.r.81" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2-100000.39.r.42100000.47.r.23100000.35.r.81" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2-100000.39.r.42100000.47.r.23100000.35.r.81" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2-10000.16.r.4210000.16.r.2310000.8.r.81" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2-10000.16.r.4210000.16.r.2310000.8.r.81" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2-100.16.r.42100.16.r.23100.8.r.81" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2-100.16.r.42100.16.r.23100.8.r.81" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2-treap-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2-treap-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2-treap-test_k2-0.1.0.00.1.0.00.1.0.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2-treap-test_k2-0.1.0.00.1.0.00.1.0.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2-treap-test_k2-1000000.52.r.421000000.57.r.231000000.45.r.81" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2-treap-test_k2-1000000.52.r.421000000.57.r.231000000.45.r.81" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2-treap-test_k2-100000.39.r.42100000.47.r.23100000.35.r.81" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2-treap-test_k2-100000.39.r.42100000.47.r.23100000.35.r.81" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2-treap-test_k2-10000.16.r.4210000.16.r.2310000.8.r.81" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2-treap-test_k2-10000.16.r.4210000.16.r.2310000.8.r.81" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2-treap-test_k2-100.16.r.42100.16.r.23100.8.r.81" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2-treap-test_k2-100.16.r.42100.16.r.23100.8.r.81" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k2-tree-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="k2-tree-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcp-construct-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="lcp-construct-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcp-construct-test_100a.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="lcp-construct-test_100a.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcp-construct-test_empty.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="lcp-construct-test_empty.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcp-construct-test_example01.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="lcp-construct-test_example01.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcp-construct-test_faust.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="lcp-construct-test_faust.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcp-construct-test_zarathustra.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="lcp-construct-test_zarathustra.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcsa" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="einstein.en.txt" WORKING_DIR="file://$PROJECT_DIR$/dataset" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="lcsa" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCSA" RUN_TARGET_NAME="lcsa">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libRepairGN" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="libRepairGN" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="moby.int" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="moby.int" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nn-dict-dynamic-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="nn-dict-dynamic-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_bit-vec.CRAFTED-32" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_bit-vec.CRAFTED-32" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_bit-vec.CRAFTED-BLOCK-0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_bit-vec.CRAFTED-BLOCK-0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_bit-vec.CRAFTED-BLOCK-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_bit-vec.CRAFTED-BLOCK-1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_bit-vec.CRAFTED-MAT-SELECT" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_bit-vec.CRAFTED-MAT-SELECT" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_bit-vec.CRAFTED-SPARSE-0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_bit-vec.CRAFTED-SPARSE-0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_bit-vec.CRAFTED-SPARSE-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_bit-vec.CRAFTED-SPARSE-1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.0.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.0.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.1000000.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.1000000.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.1000000.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.1000000.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.1000000.1.r.815" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.1000000.1.r.815" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.1024.1.r.898" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.1024.1.r.898" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.10.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.10.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.11.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.11.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.128.1.r.73" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.128.1.r.73" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.12.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.12.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.13.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.13.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.14.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.14.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.15.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.15.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.16.1.r.42" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.16.1.r.42" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.1.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.1.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.2048.1.r.5432" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.2048.1.r.5432" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.256.1.r.4887" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.256.1.r.4887" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.32.1.r.111" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.32.1.r.111" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.4096.1.r.793" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.4096.1.r.793" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.512.1.r.432" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.512.1.r.432" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.64.1.r.222" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.64.1.r.222" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.7.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.7.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.8192.1.r.1043" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.8192.1.r.1043" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.8.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.8.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.8.1.r.17" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.8.1.r.17" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rank-support-test_int-vec.9.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rank-support-test_int-vec.9.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rmq-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rmq-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rmq-test_int-vec.0.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rmq-test_int-vec.0.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rmq-test_int-vec.1000000.32.i.42" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rmq-test_int-vec.1000000.32.i.42" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rmq-test_int-vec.1000000.64.i" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rmq-test_int-vec.1000000.64.i" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rmq-test_int-vec.1000000.64.i.17" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rmq-test_int-vec.1000000.64.i.17" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rmq-test_int-vec.1.64.42" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="rmq-test_int-vec.1.64.42" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sa-construct-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sa-construct-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sa-construct-test_100a.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sa-construct-test_100a.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sa-construct-test_empty.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sa-construct-test_empty.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sa-construct-test_example01.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sa-construct-test_example01.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sa-construct-test_faust.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sa-construct-test_faust.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sa-construct-test_one_byte.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sa-construct-test_one_byte.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sa-construct-test_zarathustra.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sa-construct-test_zarathustra.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sd-vector-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sd-vector-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sdsl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sdsl" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search-bidirectional-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="search-bidirectional-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search-bidirectional-test_100a.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="search-bidirectional-test_100a.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search-bidirectional-test_empty.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="search-bidirectional-test_empty.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search-bidirectional-test_example01.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="search-bidirectional-test_example01.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search-bidirectional-test_faust.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="search-bidirectional-test_faust.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search-bidirectional-test_zarathustra.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="search-bidirectional-test_zarathustra.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_bit-vec.CRAFTED-32" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_bit-vec.CRAFTED-32" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_bit-vec.CRAFTED-BLOCK-0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_bit-vec.CRAFTED-BLOCK-0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_bit-vec.CRAFTED-BLOCK-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_bit-vec.CRAFTED-BLOCK-1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_bit-vec.CRAFTED-MAT-SELECT" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_bit-vec.CRAFTED-MAT-SELECT" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_bit-vec.CRAFTED-SPARSE-0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_bit-vec.CRAFTED-SPARSE-0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_bit-vec.CRAFTED-SPARSE-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_bit-vec.CRAFTED-SPARSE-1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.0.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.0.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.1000000.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.1000000.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.1000000.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.1000000.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.1000000.1.r.815" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.1000000.1.r.815" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.1024.1.r.898" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.1024.1.r.898" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.10.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.10.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.11.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.11.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.128.1.r.73" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.128.1.r.73" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.12.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.12.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.13.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.13.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.14.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.14.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.15.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.15.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.16.1.r.42" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.16.1.r.42" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.1.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.1.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.2048.1.r.5432" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.2048.1.r.5432" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.256.1.r.4887" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.256.1.r.4887" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.32.1.r.111" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.32.1.r.111" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.4096.1.r.793" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.4096.1.r.793" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.512.1.r.432" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.512.1.r.432" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.64.1.r.222" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.64.1.r.222" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.7.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.7.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.8192.1.r.1043" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.8192.1.r.1043" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.8.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.8.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.8.1.r.17" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.8.1.r.17" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="select-support-test_int-vec.9.1.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="select-support-test_int-vec.9.1.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sorted-int-stack-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sorted-int-stack-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sorted-stack-support-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="sorted-stack-support-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-sdsl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="test-sdsl" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-sdsl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="uninstall-sdsl" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt-byte-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt-byte-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt-byte-test_100a.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt-byte-test_100a.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt-byte-test_all_symbols.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt-byte-test_all_symbols.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt-byte-test_empty.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt-byte-test_empty.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt-byte-test_example01.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt-byte-test_example01.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt-byte-test_faust.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt-byte-test_faust.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt-int-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt-int-test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt-int-test_int-vec.0.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt-int-test_int-vec.0.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt-int-test_int-vec.100000.18.r" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt-int-test_int-vec.100000.18.r" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt-int-test_int-vec.100023.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt-int-test_int-vec.100023.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt-int-test_int-vec.1023.1.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt-int-test_int-vec.1023.1.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wt-int-test_int-vec.64.2.0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="wt-int-test_int-vec.64.2.0" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zarathustra.txt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCSA" TARGET_NAME="zarathustra.txt" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.lcsa" />
+      <item itemvalue="Application.libRepairGN" />
+      <item itemvalue="Application.uninstall-sdsl" />
+      <item itemvalue="Application.gtest" />
+      <item itemvalue="Application.gtest_main" />
+      <item itemvalue="Application.uninstall" />
+      <item itemvalue="Application.divsufsort" />
+      <item itemvalue="Application.divsufsort64" />
+      <item itemvalue="Application.sdsl" />
+      <item itemvalue="Application.bit-vector-test" />
+      <item itemvalue="Application.bit-vector-test_bit-vec.CRAFTED-32" />
+      <item itemvalue="Application.bit-vector-test_bit-vec.CRAFTED-BLOCK-0" />
+      <item itemvalue="Application.bit-vector-test_bit-vec.CRAFTED-BLOCK-1" />
+      <item itemvalue="Application.bit-vector-test_bit-vec.CRAFTED-MAT-SELECT" />
+      <item itemvalue="Application.bit-vector-test_bit-vec.CRAFTED-SPARSE-0" />
+      <item itemvalue="Application.bit-vector-test_bit-vec.CRAFTED-SPARSE-1" />
+      <item itemvalue="Application.bit-vector-test_int-vec.0.1.0" />
+      <item itemvalue="Application.bit-vector-test_int-vec.1.1.0" />
+      <item itemvalue="Application.bit-vector-test_int-vec.10.1.0" />
+      <item itemvalue="Application.bit-vector-test_int-vec.1000000.1.0" />
+      <item itemvalue="Application.bit-vector-test_int-vec.1000000.1.1" />
+      <item itemvalue="Application.bit-vector-test_int-vec.1000000.1.r.815" />
+      <item itemvalue="Application.bit-vector-test_int-vec.1024.1.r.898" />
+      <item itemvalue="Application.bit-vector-test_int-vec.11.1.1" />
+      <item itemvalue="Application.bit-vector-test_int-vec.12.1.0" />
+      <item itemvalue="Application.bit-vector-test_int-vec.128.1.r.73" />
+      <item itemvalue="Application.bit-vector-test_int-vec.13.1.1" />
+      <item itemvalue="Application.bit-vector-test_int-vec.14.1.0" />
+      <item itemvalue="Application.bit-vector-test_int-vec.15.1.1" />
+      <item itemvalue="Application.bit-vector-test_int-vec.16.1.r.42" />
+      <item itemvalue="Application.bit-vector-test_int-vec.2048.1.r.5432" />
+      <item itemvalue="Application.bit-vector-test_int-vec.256.1.r.4887" />
+      <item itemvalue="Application.bit-vector-test_int-vec.32.1.r.111" />
+      <item itemvalue="Application.bit-vector-test_int-vec.4096.1.r.793" />
+      <item itemvalue="Application.bit-vector-test_int-vec.512.1.r.432" />
+      <item itemvalue="Application.bit-vector-test_int-vec.64.1.r.222" />
+      <item itemvalue="Application.bit-vector-test_int-vec.7.1.1" />
+      <item itemvalue="Application.bit-vector-test_int-vec.8.1.0" />
+      <item itemvalue="Application.bit-vector-test_int-vec.8.1.r.17" />
+      <item itemvalue="Application.bit-vector-test_int-vec.8192.1.r.1043" />
+      <item itemvalue="Application.bit-vector-test_int-vec.9.1.1" />
+      <item itemvalue="Application.bits-test" />
+      <item itemvalue="Application.clean-test" />
+      <item itemvalue="Application.coder-test" />
+      <item itemvalue="Application.compile-test" />
+      <item itemvalue="Application.csa-byte-test" />
+      <item itemvalue="Application.csa-byte-test_100a.txt" />
+      <item itemvalue="Application.csa-byte-test_empty.txt" />
+      <item itemvalue="Application.csa-byte-test_example01.txt" />
+      <item itemvalue="Application.csa-byte-test_faust.txt" />
+      <item itemvalue="Application.csa-byte-test_zarathustra.txt" />
+      <item itemvalue="Application.csa-int-test" />
+      <item itemvalue="Application.csa-int-test_100a.txt_1" />
+      <item itemvalue="Application.csa-int-test_empty.txt_1" />
+      <item itemvalue="Application.csa-int-test_example01.txt_1" />
+      <item itemvalue="Application.csa-int-test_faust.txt_1" />
+      <item itemvalue="Application.csa-int-test_keeper.int_8" />
+      <item itemvalue="Application.csa-int-test_moby.int_8" />
+      <item itemvalue="Application.csa-int-test_zarathustra.txt_1" />
+      <item itemvalue="Application.cst-byte-test" />
+      <item itemvalue="Application.cst-byte-test_100a.txt" />
+      <item itemvalue="Application.cst-byte-test_empty.txt" />
+      <item itemvalue="Application.cst-byte-test_example01.txt" />
+      <item itemvalue="Application.cst-byte-test_faust.txt" />
+      <item itemvalue="Application.cst-int-test" />
+      <item itemvalue="Application.cst-int-test_100a.txt_1" />
+      <item itemvalue="Application.cst-int-test_empty.txt_1" />
+      <item itemvalue="Application.cst-int-test_example01.txt_1" />
+      <item itemvalue="Application.cst-int-test_faust.txt_1" />
+      <item itemvalue="Application.cst-int-test_int-vec-sa.100000.18.r_0" />
+      <item itemvalue="Application.cst-int-test_keeper.int_8" />
+      <item itemvalue="Application.cst-int-test_moby.int_8" />
+      <item itemvalue="Application.dac-vector-test" />
+      <item itemvalue="Application.faust.txt" />
+      <item itemvalue="Application.int-vector-buffer-test" />
+      <item itemvalue="Application.int-vector-mapper-test" />
+      <item itemvalue="Application.int-vector-test" />
+      <item itemvalue="Application.inv-perm-support-test" />
+      <item itemvalue="Application.k2-0.1.0.00.1.0.00.1.0.0" />
+      <item itemvalue="Application.k2-100.16.r.42100.16.r.23100.8.r.81" />
+      <item itemvalue="Application.k2-10000.16.r.4210000.16.r.2310000.8.r.81" />
+      <item itemvalue="Application.k2-100000.39.r.42100000.47.r.23100000.35.r.81" />
+      <item itemvalue="Application.k2-1000000.52.r.421000000.57.r.231000000.45.r.81" />
+      <item itemvalue="Application.k2-treap-test" />
+      <item itemvalue="Application.k2-treap-test_k2-0.1.0.00.1.0.00.1.0.0" />
+      <item itemvalue="Application.k2-treap-test_k2-100.16.r.42100.16.r.23100.8.r.81" />
+      <item itemvalue="Application.k2-treap-test_k2-10000.16.r.4210000.16.r.2310000.8.r.81" />
+      <item itemvalue="Application.k2-treap-test_k2-100000.39.r.42100000.47.r.23100000.35.r.81" />
+      <item itemvalue="Application.k2-treap-test_k2-1000000.52.r.421000000.57.r.231000000.45.r.81" />
+      <item itemvalue="Application.k2-tree-test" />
+      <item itemvalue="Application.lcp-construct-test" />
+      <item itemvalue="Application.lcp-construct-test_100a.txt" />
+      <item itemvalue="Application.lcp-construct-test_empty.txt" />
+      <item itemvalue="Application.lcp-construct-test_example01.txt" />
+      <item itemvalue="Application.lcp-construct-test_faust.txt" />
+      <item itemvalue="Application.lcp-construct-test_zarathustra.txt" />
+      <item itemvalue="Application.moby.int" />
+      <item itemvalue="Application.nn-dict-dynamic-test" />
+      <item itemvalue="Application.rank-support-test" />
+      <item itemvalue="Application.rank-support-test_bit-vec.CRAFTED-32" />
+      <item itemvalue="Application.rank-support-test_bit-vec.CRAFTED-BLOCK-0" />
+      <item itemvalue="Application.rank-support-test_bit-vec.CRAFTED-BLOCK-1" />
+      <item itemvalue="Application.rank-support-test_bit-vec.CRAFTED-MAT-SELECT" />
+      <item itemvalue="Application.rank-support-test_bit-vec.CRAFTED-SPARSE-0" />
+      <item itemvalue="Application.rank-support-test_bit-vec.CRAFTED-SPARSE-1" />
+      <item itemvalue="Application.rank-support-test_int-vec.0.1.0" />
+      <item itemvalue="Application.rank-support-test_int-vec.1.1.0" />
+      <item itemvalue="Application.rank-support-test_int-vec.10.1.0" />
+      <item itemvalue="Application.rank-support-test_int-vec.1000000.1.0" />
+      <item itemvalue="Application.rank-support-test_int-vec.1000000.1.1" />
+      <item itemvalue="Application.rank-support-test_int-vec.1000000.1.r.815" />
+      <item itemvalue="Application.rank-support-test_int-vec.1024.1.r.898" />
+      <item itemvalue="Application.rank-support-test_int-vec.11.1.1" />
+      <item itemvalue="Application.rank-support-test_int-vec.12.1.0" />
+      <item itemvalue="Application.rank-support-test_int-vec.128.1.r.73" />
+      <item itemvalue="Application.rank-support-test_int-vec.13.1.1" />
+      <item itemvalue="Application.rank-support-test_int-vec.14.1.0" />
+      <item itemvalue="Application.rank-support-test_int-vec.15.1.1" />
+      <item itemvalue="Application.rank-support-test_int-vec.16.1.r.42" />
+      <item itemvalue="Application.rank-support-test_int-vec.2048.1.r.5432" />
+      <item itemvalue="Application.rank-support-test_int-vec.256.1.r.4887" />
+      <item itemvalue="Application.rank-support-test_int-vec.32.1.r.111" />
+      <item itemvalue="Application.rank-support-test_int-vec.4096.1.r.793" />
+      <item itemvalue="Application.rank-support-test_int-vec.512.1.r.432" />
+      <item itemvalue="Application.rank-support-test_int-vec.64.1.r.222" />
+      <item itemvalue="Application.rank-support-test_int-vec.7.1.1" />
+      <item itemvalue="Application.rank-support-test_int-vec.8.1.0" />
+      <item itemvalue="Application.rank-support-test_int-vec.8.1.r.17" />
+      <item itemvalue="Application.rank-support-test_int-vec.8192.1.r.1043" />
+      <item itemvalue="Application.rank-support-test_int-vec.9.1.1" />
+      <item itemvalue="Application.rmq-test" />
+      <item itemvalue="Application.rmq-test_int-vec.0.1.0" />
+      <item itemvalue="Application.rmq-test_int-vec.1.64.42" />
+      <item itemvalue="Application.rmq-test_int-vec.1000000.32.i.42" />
+      <item itemvalue="Application.rmq-test_int-vec.1000000.64.i" />
+      <item itemvalue="Application.rmq-test_int-vec.1000000.64.i.17" />
+      <item itemvalue="Application.sa-construct-test" />
+      <item itemvalue="Application.sa-construct-test_100a.txt" />
+      <item itemvalue="Application.sa-construct-test_empty.txt" />
+      <item itemvalue="Application.sa-construct-test_example01.txt" />
+      <item itemvalue="Application.sa-construct-test_faust.txt" />
+      <item itemvalue="Application.sa-construct-test_one_byte.txt" />
+      <item itemvalue="Application.sa-construct-test_zarathustra.txt" />
+      <item itemvalue="Application.sd-vector-test" />
+      <item itemvalue="Application.search-bidirectional-test" />
+      <item itemvalue="Application.search-bidirectional-test_100a.txt" />
+      <item itemvalue="Application.search-bidirectional-test_empty.txt" />
+      <item itemvalue="Application.search-bidirectional-test_example01.txt" />
+      <item itemvalue="Application.search-bidirectional-test_faust.txt" />
+      <item itemvalue="Application.search-bidirectional-test_zarathustra.txt" />
+      <item itemvalue="Application.select-support-test" />
+      <item itemvalue="Application.select-support-test_bit-vec.CRAFTED-32" />
+      <item itemvalue="Application.select-support-test_bit-vec.CRAFTED-BLOCK-0" />
+      <item itemvalue="Application.select-support-test_bit-vec.CRAFTED-BLOCK-1" />
+      <item itemvalue="Application.select-support-test_bit-vec.CRAFTED-MAT-SELECT" />
+      <item itemvalue="Application.select-support-test_bit-vec.CRAFTED-SPARSE-0" />
+      <item itemvalue="Application.select-support-test_bit-vec.CRAFTED-SPARSE-1" />
+      <item itemvalue="Application.select-support-test_int-vec.0.1.0" />
+      <item itemvalue="Application.select-support-test_int-vec.1.1.0" />
+      <item itemvalue="Application.select-support-test_int-vec.10.1.0" />
+      <item itemvalue="Application.select-support-test_int-vec.1000000.1.0" />
+      <item itemvalue="Application.select-support-test_int-vec.1000000.1.1" />
+      <item itemvalue="Application.select-support-test_int-vec.1000000.1.r.815" />
+      <item itemvalue="Application.select-support-test_int-vec.1024.1.r.898" />
+      <item itemvalue="Application.select-support-test_int-vec.11.1.1" />
+      <item itemvalue="Application.select-support-test_int-vec.12.1.0" />
+      <item itemvalue="Application.select-support-test_int-vec.128.1.r.73" />
+      <item itemvalue="Application.select-support-test_int-vec.13.1.1" />
+      <item itemvalue="Application.select-support-test_int-vec.14.1.0" />
+      <item itemvalue="Application.select-support-test_int-vec.15.1.1" />
+      <item itemvalue="Application.select-support-test_int-vec.16.1.r.42" />
+      <item itemvalue="Application.select-support-test_int-vec.2048.1.r.5432" />
+      <item itemvalue="Application.select-support-test_int-vec.256.1.r.4887" />
+      <item itemvalue="Application.select-support-test_int-vec.32.1.r.111" />
+      <item itemvalue="Application.select-support-test_int-vec.4096.1.r.793" />
+      <item itemvalue="Application.select-support-test_int-vec.512.1.r.432" />
+      <item itemvalue="Application.select-support-test_int-vec.64.1.r.222" />
+      <item itemvalue="Application.select-support-test_int-vec.7.1.1" />
+      <item itemvalue="Application.select-support-test_int-vec.8.1.0" />
+      <item itemvalue="Application.select-support-test_int-vec.8.1.r.17" />
+      <item itemvalue="Application.select-support-test_int-vec.8192.1.r.1043" />
+      <item itemvalue="Application.select-support-test_int-vec.9.1.1" />
+      <item itemvalue="Application.sorted-int-stack-test" />
+      <item itemvalue="Application.sorted-stack-support-test" />
+      <item itemvalue="Application.test-sdsl" />
+      <item itemvalue="Application.wt-byte-test" />
+      <item itemvalue="Application.wt-byte-test_100a.txt" />
+      <item itemvalue="Application.wt-byte-test_all_symbols.txt" />
+      <item itemvalue="Application.wt-byte-test_empty.txt" />
+      <item itemvalue="Application.wt-byte-test_example01.txt" />
+      <item itemvalue="Application.wt-byte-test_faust.txt" />
+      <item itemvalue="Application.wt-int-test" />
+      <item itemvalue="Application.wt-int-test_int-vec.0.1.0" />
+      <item itemvalue="Application.wt-int-test_int-vec.100000.18.r" />
+      <item itemvalue="Application.wt-int-test_int-vec.100023.1.0" />
+      <item itemvalue="Application.wt-int-test_int-vec.1023.1.0" />
+      <item itemvalue="Application.wt-int-test_int-vec.64.2.0" />
+      <item itemvalue="Application.zarathustra.txt" />
+      <item itemvalue="Google Test.bit_vector_generator" />
+      <item itemvalue="Google Test.bit_vector_test" />
+      <item itemvalue="Google Test.bits_test" />
+      <item itemvalue="Google Test.coder_test" />
+      <item itemvalue="Google Test.compile_test" />
+      <item itemvalue="Google Test.csa_byte_test" />
+      <item itemvalue="Google Test.csa_int_test" />
+      <item itemvalue="Google Test.cst_byte_test" />
+      <item itemvalue="Google Test.cst_int_test" />
+      <item itemvalue="Google Test.dac_vector_test" />
+      <item itemvalue="Google Test.int_vector_buffer_test" />
+      <item itemvalue="Google Test.int_vector_generator" />
+      <item itemvalue="Google Test.int_vector_mapper_test" />
+      <item itemvalue="Google Test.int_vector_test" />
+      <item itemvalue="Google Test.inv_perm_support_test" />
+      <item itemvalue="Google Test.k2_treap_test" />
+      <item itemvalue="Google Test.k2_tree_test" />
+      <item itemvalue="Google Test.lcp_construct_test" />
+      <item itemvalue="Google Test.nn_dict_dynamic_test" />
+      <item itemvalue="Google Test.rank_support_test" />
+      <item itemvalue="Google Test.replace_int_vector_value" />
+      <item itemvalue="Google Test.rmq_test" />
+      <item itemvalue="Google Test.sa_construct_test" />
+      <item itemvalue="Google Test.sd_vector_test" />
+      <item itemvalue="Google Test.search_bidirectional_test" />
+      <item itemvalue="Google Test.select_support_test" />
+      <item itemvalue="Google Test.sorted_int_stack_test" />
+      <item itemvalue="Google Test.sorted_stack_support_test" />
+      <item itemvalue="Google Test.wt_byte_test" />
+      <item itemvalue="Google Test.wt_int_test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd16b6e8-df17-4284-9ceb-f4dac96e25f8" name="Default Changelist" comment="" />
+      <created>1542661627576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542661627576</updated>
+      <workItem from="1542661628799" duration="3771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3771000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CMake" weight="0.32891566" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/lcsa.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="118" column="30" selection-start-line="118" selection-start-column="30" selection-end-line="118" selection-end-column="30" />
+          <folding>
+            <element signature="e#3471#3484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/repair.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-712">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+          <folding>
+            <element signature="e#1415#1433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="e#1364#1381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

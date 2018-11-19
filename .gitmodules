@@ -1,0 +1,6 @@
+[submodule "external/repair_gn"]
+	path = external/repair_gn
+	url = https://gitlab.lbd.org.es/adriangbrandon/repair_gn.git
+[submodule "external/sdsl-lite"]
+	path = external/sdsl-lite
+	url = https://github.com/simongog/sdsl-lite.git
