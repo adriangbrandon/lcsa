@@ -56,11 +56,11 @@ namespace lcsa {
         sdsl::sd_vector<> m_L;
         sdsl::rank_support_sd<1> m_rank_support;
         sdsl::select_support_sd<1> m_select_support;
-        value_type *m_c;
+        int *m_c;
         size_type m_len_c;
         rule_type *m_r;
         size_type m_len_r;
-        size_type m_alpha;
+        uint m_alpha;
         size_type m_size;
         sdsl::byte_alphabet::char2comp_type m_char2comp;
         sdsl::byte_alphabet::sigma_type m_sigma;
@@ -151,13 +151,14 @@ namespace lcsa {
             sdsl::util::assign(m_sampling_vector, sampling_vector);
             sdsl::int_vector<> ones = m_repair.expand();
             m_L = sdsl::sd_vector<>(ones.begin(), ones.end());
-            m_c = (value_type*) m_repair.c;
+            m_c = m_repair.c;
             m_len_c = m_repair.lenC;
             m_r = m_repair.rules;
             m_len_r = m_repair.lenR;
-            m_alpha = (size_type) m_repair.alpha;
+            m_alpha = m_repair.alpha;
             sdsl::util::init_support(m_rank_support, &m_L);
             sdsl::util::init_support(m_select_support, &m_L);
+
 
         }
 
@@ -169,41 +170,82 @@ namespace lcsa {
             return *this;
         }
 
+        //! Swap method
+        void swap(lcsa& v)
+        {
+            if (this != &v) {
+                std::swap(m_sample, v.m_sample);
+                std::swap(m_sampling_vector, v.m_sampling_vector);
+                std::swap(m_L, v.m_L);
+                m_rank_support.swap(v.m_rank_support);
+                m_rank_support.set_vector(&m_L);
+                m_select_support.swap(v.m_select_support);
+                m_select_support.set_vector(&m_L);
+                std::swap(m_c, v.m_c);
+                std::swap(m_len_c, v.m_len_c);
+                std::swap(m_r, v.m_r);
+                std::swap(m_alpha, v.m_alpha);
+                std::swap(m_size, v.m_size);
+                std::swap(m_char2comp, v.m_char2comp);
+                std::swap(m_sigma, v.m_sigma);
+            }
+        }
+
+        lcsa& operator=(lcsa&& v)
+        {
+            if (this != &v) {
+                m_sample = std::move(v.m_sample);
+                m_sampling_vector = std::move(v.m_sampling_vector);
+                m_L = std::move(v.m_L);
+                m_rank_support = std::move(v.m_rank_support);
+                m_rank_support.set_vector(&m_L);
+                m_select_support = std::move(v.m_select_support);
+                m_select_support.set_vector(&m_L);
+                m_c = v.m_c;
+                m_len_c = v.m_len_c;
+                m_r = v.m_r;
+                m_alpha = std::move(v.m_alpha);
+                m_size = std::move(v.m_size);
+                m_char2comp = std::move(v.m_char2comp);
+                m_sigma = std::move( v.m_sigma);
+            }
+            return *this;
+        }
 
 
-        void expand_left(size_type value, std::vector<size_type> &vector, size_type &actual, size_type start, size_type end) const {
-            if(actual > end) return;
+        void expand_left(long value, std::vector<long> &vector, long &actual, size_type start, size_type end) const {
+            //if(actual > end) return;
             while (value >= m_alpha) {
                 expand_left(m_r[value - m_alpha].left, vector, actual, start, end);
                 value = m_r[value - m_alpha].right;
             }
-            if (start <= actual) {
+            if (start <= actual && actual <= end) {
                 vector.push_back(value);
             }
             actual++;
         }
 
-        void expand_right(size_type value, std::vector<size_type> &vector, size_type &actual, size_type start, size_type end) const{
-            if(start < actual) return;
+        void expand_right(long value, std::vector<long> &vector, long &actual, size_type start, size_type end) const{
+            //if(start < actual) return;
             while (value >= m_alpha) {
                 expand_right(m_r[value - m_alpha].right, vector, actual, start, end);
                 value = m_r[value - m_alpha].left;
             }
-            if (actual <= end) {
+            if (start <= actual && actual <= end) {
                 vector.push_back(value);
             }
             actual--;
         }
 
-        void expand_interval_left(size_type i, size_type j, size_type &actual, size_type start, size_type end,
-                std::vector<size_type> &result) const {
+        void expand_interval_left(size_type i, size_type j, long &actual, size_type start, size_type end,
+                std::vector<long> &result) const {
             for (size_type p = i; p <= j; p++) {
                 expand_left(m_c[p], result, actual, start, end);
             }
         }
 
-        void expand_interval_right(size_type i, size_type j, size_type &actual, size_type start, size_type end,
-                std::vector<size_type> &result) const{
+        void expand_interval_right(size_type i, size_type j, long &actual, size_type start, size_type end,
+                std::vector<long> &result) const{
             for (size_type p = j; p >= i; p--) {
                 expand_right(m_c[p], result, actual, start, end);
             }
@@ -221,10 +263,10 @@ namespace lcsa {
                 //std::cout << "c-start: " << c_start << std::endl;
                 size_type c_end = m_rank_support(i + 1);
                 //std::cout << "c-end: " << c_end << std::endl;
-                size_type p_start = 0;
+                long p_start = 0;
                 if (c_start > 0) p_start = m_select_support(c_start);
                 //std::cout << "p-start " << p_start << std::endl;
-                std::vector<size_type > diffs;
+                std::vector<long > diffs;
                 expand_interval_left(c_start, c_end, p_start, i1, i, diffs);
                 size_type value = m_sampling_vector[i / m_sample];
                 for (uint32_t p_diff = 1; p_diff < diffs.size(); p_diff++) {
@@ -236,9 +278,9 @@ namespace lcsa {
                 //std::cout << "c-start: " << c_start << std::endl;
                 size_type c_end = m_rank_support(j1 + 1);
                 //std::cout << "c-end: " << c_end << std::endl;
-                size_type p_end = m_select_support(c_end+1)-1;
+                long p_end = m_select_support(c_end+1)-1;
                 //std::cout << "p-start " << p_start << std::endl;
-                std::vector<size_type > diffs;
+                std::vector<long > diffs;
                 expand_interval_right(c_start, c_end, p_end, i, j1, diffs);
                 size_type value = m_sampling_vector[i / m_sample+1];
                 for (uint32_t p_diff = 0; p_diff < diffs.size()-1; p_diff++) {
