@@ -33,3 +33,5 @@
 
 *build*
 dataset/
+.idea/
+.DS_Store
