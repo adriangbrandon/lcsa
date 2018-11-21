@@ -214,9 +214,9 @@ namespace lcsa {
 
 
         void expand_left(long value, std::vector<long> &vector, long &actual, size_type start, size_type end) const {
-            //if(actual > end) return;
             while (value >= m_alpha) {
                 expand_left(m_r[value - m_alpha].left, vector, actual, start, end);
+                if(actual > end) return;
                 value = m_r[value - m_alpha].right;
             }
             if (start <= actual && actual <= end) {
@@ -226,9 +226,9 @@ namespace lcsa {
         }
 
         void expand_right(long value, std::vector<long> &vector, long &actual, size_type start, size_type end) const{
-            //if(start < actual) return;
             while (value >= m_alpha) {
                 expand_right(m_r[value - m_alpha].right, vector, actual, start, end);
+                if(actual < start) return;
                 value = m_r[value - m_alpha].left;
             }
             if (start <= actual && actual <= end) {

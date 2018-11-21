@@ -58,25 +58,24 @@ int main(int argc, char **argv) {
 
     std::cout << "Csa" << std::endl;
     lcsa::lcsa m_lcsa(csa, 64);
-
-
-    for(uint64_t i = 0; i < m_lcsa.size(); i++){
+    std::cout << "LCSA" << std::endl;
+    /*for(uint64_t i = 0; i < m_lcsa.size(); i++){
        if(m_lcsa[i] != csa[i]){
            std::cout << "Error salc[" << i << "] " << m_lcsa[i] << " != csa[" << i << "] " << csa[i]<< std::endl;
            exit(1);
        };
 
-    }
+    }*/
 
     auto start = timer::now();
-    for(uint64_t i = 0; i < m_lcsa.size(); i++){
+    for(uint64_t i = 0; i < 1000; i++){
         m_lcsa[i];
     }
     auto stop = timer::now();
     auto time_lcsa = std::chrono::duration_cast<std::chrono::milliseconds>(stop-start).count()/(double)1000;
 
     start = timer::now();
-    for(uint64_t i = 0; i < m_lcsa.size(); i++){
+    for(uint64_t i = 0; i < 1000; i++){
         csa[i];
     }
     stop = timer::now();
@@ -84,7 +83,7 @@ int main(int argc, char **argv) {
 
 
     std::cout << "Bytes SA " << sdsl::size_in_bytes(csa) << std::endl;
-    std::cout << "Bytes SALC " << m_lcsa.size_in_bytes() << std::endl;
+    std::cout << "Bytes LCSA " << m_lcsa.size_in_bytes() << std::endl;
     std::cout << "Time per element LCSA: " << time_lcsa / content.size() << std::endl;
     std::cout << "Time per element SA: " << time_sa / content.size() << std::endl;
 
